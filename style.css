@@ -1,8 +1,10 @@
 body {
 font-family: times new roman, times, serif;
-font-size: 20px/28px;
+font-size: 30px;
 background: green; 
 }
 .h1 {
 	font-style: bold;
+	color: white;
+	font-variant: small-caps;
 	}

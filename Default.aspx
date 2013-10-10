@@ -13,7 +13,7 @@
     <form id="form1" runat="server">
     <div>
     
-        Salary Calculator<br />
+        <h1>Salary Calculator</h1><br />
         <br />
         Hours Worked:
         <br />
